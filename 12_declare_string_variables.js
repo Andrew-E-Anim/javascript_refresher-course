@@ -22,3 +22,10 @@ ourAugStr += "I come second.";
 var myAugStr = "This is the start. " 
 myAugStr += "This is the end."; 
 console.log(myAugStr);
+
+var ourName = "freeCodeCamp";
+var ourStr = "Hello, our name is " + ourName + ", how are you?";
+
+var myName = "Andrew";
+var myStr = "My name is " + myName + " and I am well!";
+console.log(myStr);
