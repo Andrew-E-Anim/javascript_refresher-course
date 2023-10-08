@@ -45,3 +45,5 @@ var myArray = [["John", 23], ["cat", 2]];
 
 var removedFromMyArray = myArray.pop();
 console.log(myArray);
+
+//.shift() works like the pop() but shift() removes the first item in the array
