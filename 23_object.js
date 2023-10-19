@@ -31,3 +31,22 @@ var testObj = {
 
 var hatValue = testObj["hat"];
 var shirtValue = testObj["shirt"];
+
+//Add new properties to an Object
+var ourDog = {
+    "name": "Tricsy",
+    "legs": 4,
+    "tails": 0,
+    "friends": ["family"]
+};
+
+ourDog.bark = "Wow-wow";
+
+var myDog = {
+    "name": "Rocky",
+    "legs": 4,
+    "tails": 0,
+    "friends": ["everybody"]
+};
+
+myDog['bark'] = "Woof";
